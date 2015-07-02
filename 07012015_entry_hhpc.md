@@ -1,4 +1,4 @@
-# June 30, 2015
+# July 1, 2015
 
 Today: 
 * Created seasonal average timeseries netcdf files for SAM using the aredi = 400, 2400 control jhu-gfdl model runs 
