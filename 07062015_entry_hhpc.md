@@ -13,4 +13,4 @@ Today:
 
 SAM Trends                 |  SST Trends
 :-------------------------:|:-------------------------:
-![](cntrl_sam_djf_pdf_07022015.png)  |  ![](files/cntrl_sst_djf_pdf_07062015.png)
+![](files/cntrl_sam_djf_pdf_07022015.png)  |  ![](files/cntrl_sst_djf_pdf_07062015.png)
