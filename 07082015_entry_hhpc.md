@@ -12,8 +12,6 @@ Today:
 SAM Trends                 |  SST Trends
 :-------------------------:|:-------------------------:
 ![](files/cntrl_sam_djf_pdf_07022015.png)  |  ![](files/cntrl_sst_djf_pdf_07062015.png)
-:-------------------------:|:--------------------------:
 Jet Magnitude Trends       | Jet Location Trends
 :-------------------------:|:--------------------------:
-
 ![](files/cntrl_u850_max_djf_pdf_07082015.png)|![](files/cntrl_u850_lat_djf_pdf_07082015.png)
