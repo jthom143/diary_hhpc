@@ -22,3 +22,9 @@ SAM Trends                 |  SST Trends
 * Look further in ocean fields including stratification. 
   * First look into the mixed layer depths (defined by sigma-t and mixing scheme). 
   * Next look into vertical denisty gradient (ref: Capotondi et al., 2012). 
+    * Difference between density at 200m and surface density (200m is below average MLD).
+ 
+## Mixed Layer Depth using mixing scheme 
+Aredi = 400                |  Aredi = 2400
+:-------------------------:|:-------------------------:
+![](files/cntrl_mld_400_djf_timeseries_07082015.png)  |  ![](files/cntrl_mld_2400_djf_timeseries_07082015.png)
