@@ -20,3 +20,5 @@ SAM Trends                 |  SST Trends
 * SST variability under the high mixing case is much smaller than the low mixing case. 
 * Suggests the changes going on in the ocean in these different mixing cases is not changing the atmospheric dynamics substantially. 
 * Look further in ocean fields including stratification. 
+  * First look into the mixed layer depths (defined by sigma-t and mixing scheme). 
+  * Next look into vertical denisty gradient (ref: Capotondi et al., 2012). 
