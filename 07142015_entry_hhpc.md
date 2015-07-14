@@ -15,13 +15,15 @@ aredi = 400    |  aredi = 2400
 :-------------------------:|:-------------------------:
 ![](files/cntrl_mld_400_djf_timeseries_07082015.png)  |  ![](files/cntrl_mld_2400_djf_timeseries_07082015.png)
 
-### Mixed Layer Depth defined using sigma-t
-aredi = 400    |  aredi = 2400
-:-------------------------:|:-------------------------:
-![](files/cntrl_mld_sigma_400_djf_timeseries_07132015.png)  |  
-![](files/cntrl_mld_sigma_2400_djf_timeseries_07132015.png)
-
-### 25-year Trend Analysis
 Mid-Latitude (30-50S)     |  Polar Region (50-70S)
 :-------------------------:|:-------------------------:
 ![](files/cntrl_mld_mixing_midlatitude_pdf_07142015.png)  |  ![](files/cntrl_mld_mixing_polar_pdf_07142015.png)
+
+### Mixed Layer Depth defined using sigma-t
+aredi = 400    |  aredi = 2400
+:-------------------------:|:-------------------------:
+![](files/cntrl_mld_sigma_400_djf_timeseries_07132015.png)  |  ![](files/cntrl_mld_sigma_2400_djf_timeseries_07132015.png)
+
+Mid-Latitude (30-50S)     |  Polar Region (50-70S)
+:-------------------------:|:-------------------------:
+![](files/cntrl_mld_sigma_midlatitude_pdf_07142015.png)  |  ![](files/cntrl_mld_sigma_polar_pdf_07142015.png)
