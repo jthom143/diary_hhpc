@@ -44,3 +44,5 @@ aredi = 400    |  aredi = 2400
 Mid-Latitude (30-50S)     |  Polar Region (50-70S)
 :-------------------------:|:-------------------------:
 ![](files/cntrl_density_diff_midlatitude_pdf_07152015.png)  |  ![](files/cntrl_density_diff_polar_pdf_07152015.png)
+
+Interesting that there is a difference between the MLD in the aredi = 400 and 2400 case, but not in the density stratification. 
