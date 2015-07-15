@@ -33,9 +33,9 @@ Mid-Latitude (30-50S)     |  Polar Region (50-70S)
 * Since density is on a pressure grid in the model output, used the 210 dbar level instead of 200m. 
 
 DJF Density stratification averaged over the last 100 years: 
-aredi = 400    |  aredi = 2400
-:-------------------------:|:-------------------------:
-![](files/cntrl_density_difference_400_djf_pcolormap_07152015.png)|![](files/cntrl_density_difference_2400_djf_pcolormap_07152015.png)
+![](files/cntrl_density_difference_400_djf_pcolormap_07152015.png)
+
+![](files/cntrl_density_difference_2400_djf_pcolormap_07152015.png)
 
 aredi = 400    |  aredi = 2400
 :-------------------------:|:-------------------------:
