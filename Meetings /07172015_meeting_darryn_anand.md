@@ -16,7 +16,7 @@ ice to drive convection.
 convective events (winter-time). 
 
 Papers to look at: 
-*How does the redi parameter for mesoscale mixing impact global climate 
+* How does the redi parameter for mesoscale mixing impact global climate 
 in an ESM? 
 
 Hypothesis: 
@@ -34,6 +34,7 @@ Think about a dynamical or biogeochemical question:
 
 To Do List: 
 * **Email Ute about SSTs**
-* Look at potential density instead of in situ density.  
+* Look at potential density instead of in situ density. 
+* Look at winter MLD and stratification
 
 
