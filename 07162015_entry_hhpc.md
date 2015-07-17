@@ -13,3 +13,8 @@ aredi = 400      | aredi = 2400
 ### Trend Analysis: 
 
 ![25-year trends](files/cntrl_SIE_djf_pdf_07162015.png)
+
+### Comparison with SSTs: 
+SST Trends      | SIE Trends
+:---------------------------:|:-----------------------:
+![](files/cntrl_sst_djf_pdf_07062015.png) |![] (files/cntrl_SIE_djf_pdf_07162015.png)
