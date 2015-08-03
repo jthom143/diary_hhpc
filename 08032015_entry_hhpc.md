@@ -11,3 +11,5 @@ Where the age is the age less than 300 years.
 I then took the difference between the two mixing cases (aredi2400 - aredi400): 
 
 ![](files/age_DIC_difference_weddell_08032015.png)
+
+Anand suggests looking at the zonal integral of both anthropogenic DIC and age to compare. 
