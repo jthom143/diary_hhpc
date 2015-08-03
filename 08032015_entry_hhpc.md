@@ -5,6 +5,7 @@ Looking at similarities between anthropogenic DIC and age in two mixing cases (a
 Picked one region to focus on: Weddell sea (-45 W):
 
 ![](files/age_DIC_weddell_08032015.png)
+
 Where the age is the age less than 300 years. 
 
 I then took the difference between the two mixing cases (aredi2400 - aredi400): 
