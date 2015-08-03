@@ -9,4 +9,6 @@ Also want to compare the age (residency_age_surface) that's younger than 200 yea
 * If the changes between the two mixing cases is due solely to ventilation rates, than the age < 200 years 
 should correlate well with the DIC differences. 
 
-![age less than 200 years](files/cntrl_age_less200_07312015.png) 
+![Aredi400 age less than 200 years](files/cntrl_age_less200_aredi400_07312015.png) 
+![Aredi2400 age less than 200 years](files/cntrl_age_less200_aredi2400_07312015.png) 
+
