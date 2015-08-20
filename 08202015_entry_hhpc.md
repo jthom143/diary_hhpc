@@ -23,3 +23,7 @@ Scatter plot of entire S.O.      | Scatter plot of areas where mean age < 200 ye
 :---------------------------:|:-----------------------:
 ![](files/DoublingCO2_anthroDIC_age_difference_corr_08202015.png) |![] (files/DoublingCO2_anthroDIC_age_difference_corr_lessthan200_08202015.png)
 * Note: units on y-axis are the same for both... forgot the 10^-3 on the figure to the left. 
+
+![](files/DoublingCO2_anthDIC_age_scatter_1860_08202015.png)      |![](files/DoublingCO2_anthDIC_age_scatter_1900_08202015.png) 
+:---------------------------:|:-----------------------:
+![](files/DoublingCO2_anthDIC_age_scatter_1950_08202015.png) |![] (files/DoublingCO2_anthDIC_age_scatter_2000_08202015.png)
