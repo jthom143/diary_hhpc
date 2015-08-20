@@ -16,3 +16,9 @@ Average age: 229, 128 years  | Average age: 265, 269 years  |Average age: 498, 3
 
 
 * Average age for aredi = 400 and aredi = 2400 respectively
+
+## Scatter Plots of age difference and anthro DIC difference: 
+
+Scatter plot of entire S.O.      | Scatter plot of areas where mean age < 200 years
+:---------------------------:|:-----------------------:
+![](files/DoublingCO2_anthroDIC_age_difference_corr_08202015.png) |![] (files/DoublingCO2_anthroDIC_age_difference_corr_lessthan200_08202015.png)
