@@ -24,5 +24,5 @@ Timeseries | Variations with Depth
 ### Compare salinity gradient in Weddell sea to global upper ocean heat content
 ![](files/newCO2_control_800_salinity_ohc_ts_10072015.png)
 
-### Look at Sea Surface Temperature
+### Sea Surface Temperature Anomoly
 ![](files/newCO2_control_800_sst_10072015.png)
