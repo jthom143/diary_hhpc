@@ -14,7 +14,7 @@ Timeseries | Variations with Depth
 :-------------------------:|:-------------------------:
 ![](files/newCO2_control800_ohc_occ_pole_trops_ts _10052015.png) | ![](files/newCO2_control800_ohc_occ_pole_trops_depth_10052015.png)
 
-### Look into the Southern Ocean salinity gradient:
+### Look into the Southern Ocean salinity gradient (cold year in blue, warm year in red):
 ![](files/newCO2_control_800_salinity_depth_10072015.png)
 
 
