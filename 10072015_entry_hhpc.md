@@ -18,10 +18,10 @@ Timeseries | Variations with Depth
 ![](files/newCO2_control_800_salinity_depth_10072015.png)
 
 
-### Salinity at 800m-surface
+### Salinity at 800m minus salinity at surface
 ![](files/newCO2_control_800_salinity_maps_10072015.png)
 
-### Compare salinity gradient in Weddell sea to global upper ocean heat content
+### Compare salinity gradient in Weddell sea (top-blue) to global upper ocean heat content (bottom-red)
 ![](files/newCO2_control_800_salinity_ohc_ts_10072015.png)
 
 ### Sea Surface Temperature Anomoly
