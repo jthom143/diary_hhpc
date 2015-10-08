@@ -26,3 +26,6 @@ Timeseries | Variations with Depth
 
 ### Sea Surface Temperature Anomoly:
 ![](files/newCO2_control_800_sst_10072015.png)
+
+## Preformed DIC anomoly (mol/m^2)
+![](files/newCO2_control_800_dic_pre10082015.png)
