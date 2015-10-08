@@ -5,9 +5,9 @@
 ![](files/newCO2_control800_ohc_occ_anomoly_zoomedin_09212015.png)
 
 ### Heat and carbon variation with depth and latitude
-Variations with Depth | Variations with Latitude
+Variations with Latitude | Variations with Depth
 :-------------------------:|:-------------------------:
-![](files/newCO2_control800_ohc_occ_depth_plot _09292015.png) | ![](files/newCO2_control800_ohc_occ_lat_plot _09292015.png)
+![](files/newCO2_control800_ohc_occ_lat_plot _09292015.png) |![](files/newCO2_control800_ohc_occ_depth_plot _09292015.png) 
 
 ### Break up into tropics and Southern Ocean
 Timeseries | Variations with Depth
