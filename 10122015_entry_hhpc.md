@@ -13,6 +13,7 @@ Carbon Content | Heat Content
 ![](files/GF_ocean_carbon_content_10122015.png) | ![](files/GF_ocean_heat_content_10122015.png) 
 
 Also plotted the difference of warm and cold start ensemble averages from the total ensemble averages (red line minus black line, ect.)
+
 Carbon Content Anomoly | Heat Content Anomoly
 :-------------------------:|:-------------------------:
 ![](files/GF_ocean_carbon_content_diff_from_ens_10122015.png) | ![](files/GF_ocean_heat_content_diff_from_ens_10122015.png)
