@@ -4,7 +4,7 @@ Continued looking at the control run - examine mixed layer depth, convection, an
 
 ### Mixed layer depth and convection
 
-![](files/newCO2_control_800_weddell_ross_mld_10272015.png = =150x10)
+![](files/newCO2_control_800_weddell_ross_mld_10272015.png=150x10)
 
 Figure 1: Average mixed layer depth (m) in Weddell Sea (50S-75S, 60W-0W) and Ross Sea (50S-75S, 160E-120W). 
 
