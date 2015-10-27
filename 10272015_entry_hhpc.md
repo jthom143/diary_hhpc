@@ -4,35 +4,39 @@ Continued looking at the control run - examine mixed layer depth, convection, an
 
 ### Mixed layer depth and convection
 
-Mixed Layer Depth (m) in Weddell Sea (50S-75S, 60W-0W) and Ross Sea (50S-75S, 160E-120W):
-
 ![](files/newCO2_control_800_weddell_ross_mld_10272015.png)
 
-Mixed Layer Depth (m) averaged over each region: 
+Figure 1: Average mixed layer depth (m) in Weddell Sea (50S-75S, 60W-0W) and Ross Sea (50S-75S, 160E-120W). 
+
 
 ![](files/newCO2_control_800_weddell_ross_mld_timeseries_10272015.png)
 
-Mixed Layer Depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m. 
+Figure 2: Timeseries of mixed layer depth (m) averaged over each region. 
+
 
 Weddell Sea Convection | Ross Sea Convection
 :-------------------------:|:-------------------------:
 ![](files/newCO2_control_800_weddell_convect_10272015.png) | ![](files/newCO2_control_800_ross_convect_10272015.png)
 
-Timeseries of Weddell Sea MLD (convective times shown in blue), Southern Ocean heat content, and 
-Southern Ocean carbon content. Convective times defined as when the MLD reaches below 600m and has an 
-area greater than 100,000 km^2. 
+Figure 3: Mixed layer depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m.
+
 
 ![](files/newCO2_control_800_weddell_mld_so_heat_carbon_ts_10272015.png)
- 
+
+Figure 4: Timeseries of Weddell Sea MLD (convective times shown in blue), Southern Ocean heat content, and 
+Southern Ocean carbon content. Convective times defined as when the MLD reaches below 600m and has an 
+area greater than 100,000 km^2.  
 
 
 ### Age:
 
 ![](files/newCO2_control800_age_warm_cold_10262015.png)
 
+Figure 5: Zonally Averaged age over entire ocean.  
 
-Age in Weddell Sea:
 
 Total Water Column | Top 1000 m
 :-------------------------:|:-------------------------:
 ![](files/newCO2_control800_weddell_sea_age_warm_cold_10262015.png) | ![](files/newCO2_control800_weddell_sea_age_warm_cold_top1000_10262015.png)
+
+Figure 6: Zonally averaged age in Weddell Sea.
