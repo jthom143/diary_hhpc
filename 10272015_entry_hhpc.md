@@ -16,7 +16,7 @@ Mixed Layer Depth for Weddell Sea convective year (2010) and Ross Sea convective
 
 Weddell Sea Convection | Ross Sea Convection
 :-------------------------:|:-------------------------:
-![](files/newCO2_control800_weddell_convect_10272015.png) | ![](files/newCO2_control800_ross_convect_10272015.png)
+![](files/newCO2_control_800_weddell_convect_10272015.png) | ![](files/newCO2_control_800_ross_convect_10272015.png)
 
 Timeseries of Weddell Sea MLD (convective times shown in blue), Southern Ocean heat content, and 
 Southern Ocean carbon content. Convective times defined as when the MLD reaches below 600m and has an 
