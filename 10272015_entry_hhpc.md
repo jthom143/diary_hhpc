@@ -13,6 +13,7 @@ Figure 1: Average mixed layer depth (m) in Weddell Sea (50S-75S, 60W-0W) and Ros
 <img src="files/newCO2_control_800_weddell_ross_mld_timeseries_10272015.png" alt="alt text" width="400">
 
 Figure 2: Timeseries of mixed layer depth (m) averaged over each region.  
+
 \  
 \  
 
@@ -21,6 +22,7 @@ Weddell Sea Convection | Ross Sea Convection
 <img src="files/newCO2_control_800_weddell_convect_10272015.png" alt="alt text" width="300"> | <img src="files/newCO2_control_800_ross_convect_10272015.png" alt="alt text" width="300">
 
 Figure 3: Mixed layer depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m.
+
 \  
 \  
 
@@ -37,6 +39,7 @@ area greater than 100,000 km^2.
 <img src="files/newCO2_control800_age_warm_cold_10262015.png" alt="alt text" width="500">
 
 Figure 5: Zonally Averaged age over entire ocean.  
+
 \  
 \  
 
