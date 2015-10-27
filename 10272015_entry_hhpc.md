@@ -12,7 +12,7 @@ Mixed Layer Depth (m) averaged over each region:
 
 ![](files/newCO2_control_800_weddell_ross_mld_timeseries_10272015.png)
 
-Mixed Layer Depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045)
+Mixed Layer Depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m. 
 
 Weddell Sea Convection | Ross Sea Convection
 :-------------------------:|:-------------------------:
