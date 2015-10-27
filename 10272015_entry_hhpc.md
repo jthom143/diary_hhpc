@@ -16,12 +16,12 @@ Figure 2: Timeseries of mixed layer depth (m) averaged over each region.
 
 Weddell Sea Convection | Ross Sea Convection
 :-------------------------:|:-------------------------:
-![](files/newCO2_control_800_weddell_convect_10272015.png) | ![](files/newCO2_control_800_ross_convect_10272015.png)
+<img src="files/newCO2_control_800_weddell_convect_10272015.png" alt="alt text" width="300"> | <img src="files/newCO2_control_800_ross_convect_10272015.png" alt="alt text" width="300">
 
 Figure 3: Mixed layer depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m.
 
 
-<img src="newCO2_control_800_weddell_mld_so_heat_carbon_ts_10272015.png" alt="alt text" width="400">
+<img src="files/newCO2_control_800_weddell_mld_so_heat_carbon_ts_10272015.png" alt="alt text" width="500">
 
 Figure 4: Timeseries of Weddell Sea MLD (convective times shown in blue), Southern Ocean heat content, and 
 Southern Ocean carbon content. Convective times defined as when the MLD reaches below 600m and has an 
@@ -30,7 +30,7 @@ area greater than 100,000 km^2.
 
 ### Age:
 
-![](files/newCO2_control800_age_warm_cold_10262015.png)
+<img src="files/newCO2_control800_age_warm_cold_10262015.png" alt="alt text" width="500">
 
 Figure 5: Zonally Averaged age over entire ocean.  
 
