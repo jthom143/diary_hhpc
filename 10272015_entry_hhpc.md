@@ -12,9 +12,9 @@ Figure 1: Average mixed layer depth (m) in Weddell Sea (50S-75S, 60W-0W) and Ros
 
 <img src="files/newCO2_control_800_weddell_ross_mld_timeseries_10272015.png" alt="alt text" width="400">
 
-Figure 2: Timeseries of mixed layer depth (m) averaged over each region. 
-
-
+Figure 2: Timeseries of mixed layer depth (m) averaged over each region.  
+\  
+\  
 
 Weddell Sea Convection | Ross Sea Convection
 :-------------------------:|:-------------------------:
