@@ -9,19 +9,10 @@ To understand this ocean heat and carbon uptake in response to an ozone hole, we
 
 <img src="figs_poster/carbon_heat_convection.png" alt="alt text" width="400">
 
-Figure 1: Yearly averaged (a) Weddell Sea convection, (b) heat content anomoly, and (c) carbon content anomoly in ESM2Mc. For carbon and heat content, blue line indicates Southern Ocean content, while the black line inticates global content. For convection, the black line corresponds to the Weddell Sea averaged mixed layer depth, and the green line corresponds to the Weddell Sea average temperature between 1500m-2300m. Figure generated Feb 9, 2015 using *proposal_figure2.py*
+Figure 1: Annual averaged (a) Weddell Sea convection, (b) heat content anomoly, and (c) carbon content anomoly in ESM2Mc. For carbon and heat content, blue line indicates Southern Ocean content, while the black line inticates global content. For convection, the black line corresponds to the Weddell Sea averaged mixed layer depth, and the green line corresponds to the Weddell Sea average temperature between 1500m-2300m. Figure generated Feb 9, 2015 using *proposal_figure2.py*
 
-\  
-\  
 
-Weddell Sea Convection | Ross Sea Convection
-:-------------------------:|:-------------------------:
-<img src="files/newCO2_control_800_weddell_convect_10272015.png" alt="alt text" width="300"> | <img src="files/newCO2_control_800_ross_convect_10272015.png" alt="alt text" width="300">
-
-Figure 3: Mixed layer depth for Weddell Sea convective year (2010) and Ross Sea convective year (2045). Black countour line indicates mld = 600m.
-
-\  
-\  
-
+<img src="figs_poster/subsurface_carbon_heat.png" alt="alt text" width="400">
+Figure 2: Annual averaged vertically and zonally integrated (a) ocean carbon, and (b) ocean heat for convective (blue) and non-convective (red) years. Zonally averaged difference between the convective and non-convective years for (c) carbon and (d) heat. Figure generated Feb 9, 2015 using *proposal_figure3.py*
 
 
