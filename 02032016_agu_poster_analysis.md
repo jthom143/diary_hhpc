@@ -13,6 +13,7 @@ Figure 1: Annual averaged (a) Weddell Sea convection, (b) heat content anomoly, 
 
 
 <img src="figs_poster/subsurface_carbon_heat.png" alt="alt text" width="400">
+
 Figure 2: Annual averaged vertically and zonally integrated (a) ocean carbon, and (b) ocean heat for convective (blue) and non-convective (red) years. Zonally averaged difference between the convective and non-convective years for (c) carbon and (d) heat. Figure generated Feb 9, 2015 using *proposal_figure3.py*
 
 
