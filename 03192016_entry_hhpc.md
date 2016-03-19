@@ -4,6 +4,6 @@ Today:
 * Calculated OHC for aredi simulations
 * Made plot of global and southern ocean heat content for aredi simulations
 
-![OHC](files/ohc_aredi_simulations.png)
-
-![OHC_detrended](files/ohc_aredi_simulations_detrend.png)
+Raw Data                |  Detrended 400 and 2400 
+:-------------------------:|:-------------------------:
+![](files/ohc_aredi_simulations.png)  |  ![](files/ohc_aredi_simulations_detrend.png)
