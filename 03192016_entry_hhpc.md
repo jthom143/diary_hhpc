@@ -6,4 +6,4 @@ Today:
 
 ![OHC](files/ohc_aredi_simulations.png)
 
-![OHC_detrended](files/ohc_aredi_simulations_detrend)
+![OHC_detrended](files/ohc_aredi_simulations_detrend.png)
