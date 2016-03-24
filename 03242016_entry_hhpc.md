@@ -10,5 +10,6 @@ Method:
 
 Note: Using a linear interpolation for both steps yeilded an artifical temperature decrease at ~55S. This method allows for constant temperature increase from the Southern Ocean equatorward. 
 
+This analysis can be done for other fields (salinity, DIC, ect.) or for other Aredi simulations.
 
 ![](files/aredi800_temp_climatology_isopycnal_temp_grad.png)
