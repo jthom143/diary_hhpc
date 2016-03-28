@@ -6,11 +6,11 @@ Today:
 ![](files/equn.png)
 
 Where: 
-Q_sw = Shortwave heat flux
-Q_lw = Longwave heat flux
-Q_s = Sensible heat flux
-Q_l = Latent heat flux 
-Q_v = Advective Heat flux
+Q_sw = Shortwave heat flux  
+Q_lw = Longwave heat flux  
+Q_s = Sensible heat flux  
+Q_l = Latent heat flux   
+Q_v = Advective Heat flux  
 
 * Note: In this preliminary analysis, advective heat flux is ignored. 
 
