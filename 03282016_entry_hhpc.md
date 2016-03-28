@@ -12,7 +12,7 @@ Q_s = Sensible heat flux
 Q_l = Latent heat flux   
 Q_v = Advective Heat flux  
 
-* Note: In this preliminary analysis, advective heat flux is ignored. 
+Note: In this preliminary analysis, advective heat flux is ignored. 
 
 Individual Fluxes                | Total Flux
 :-------------------------:|:-------------------------:
