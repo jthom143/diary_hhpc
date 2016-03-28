@@ -5,7 +5,7 @@ Today:
 
 ![](files/equn.png)
 
-Where: 
+Where:   
 Q_sw = Shortwave heat flux  
 Q_lw = Longwave heat flux  
 Q_s = Sensible heat flux  
